@@ -13,3 +13,6 @@ mongosh "mongodb+srv://cluster0.wghwm.mongodb.net/myFirstDatabase" --username TH
 installing MongoDB driver for golang:
 dep ensure -add "go.mongodb.org/mongo-driver/mongo@~1.7.0"
 
+Initialize this dep in the root folder of the new project:
+dep init
+
