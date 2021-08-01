@@ -17,4 +17,15 @@ Initialize this dep in the root folder of the new project:
 dep init
 
 setup GOPATH in env VAriables to your current project path: or yo no Gucci
-
+and if you don't wanna place all the projects in one folder at one place (like me):
+            Remove the Gopkg.toml and Gopkg.lock (if you have it).
+            Run,
+            a. go mod init <project-name> Replace <project-name> with the name of your project.
+            b. Run go mod tidy and it'll add all the dependencies you are using in your project.
+            c. Run go build once to make sure your project still builds. If it doesn't, You can add the missing dependencies manually in go.mod.
+            Commit go.mod and go.sum(if you need deterministic builds).
+  Now you Gucci. GoLang setup is not good. Need to make it better.
+  
+  
+  
+  
