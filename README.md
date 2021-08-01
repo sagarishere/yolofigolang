@@ -7,3 +7,6 @@ I will use this readme file as a documentation also as most of the web resources
 
 ==============================
 
+for connecting to mongoDB Atlas cluster:
+mongosh "mongodb+srv://cluster0.wghwm.mongodb.net/myFirstDatabase" --username THISISUSERNAME
+
