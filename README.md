@@ -16,3 +16,5 @@ dep ensure -add "go.mongodb.org/mongo-driver/mongo@~1.7.0"
 Initialize this dep in the root folder of the new project:
 dep init
 
+setup GOPATH in env VAriables to your current project path: or yo no Gucci
+
