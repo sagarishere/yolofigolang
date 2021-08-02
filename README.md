@@ -1,7 +1,7 @@
 # yolofigolang
-                                                                                    YOLOfi
+                                                         YOLOfi
                                                                                     
-                                                                             You live only once
+                                                   You live only once
 
 Concept Description:
 Made for humans to know each other better.
