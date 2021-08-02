@@ -7,6 +7,9 @@ I will use this readme file as a documentation also as most of the web resources
 
 ==============================
 
+
+Beow is the Mongolang setup in windows and connecting it to Atlas Cluster, thereafter installing goland driver and get it runnin and communicating with Atlas cluster:
+
 for connecting to mongoDB Atlas cluster:
 mongosh "mongodb+srv://cluster0.wghwm.mongodb.net/myFirstDatabase" --username THISISUSERNAME
 
@@ -26,6 +29,8 @@ and if you don't wanna place all the projects in one folder at one place (like m
             Commit go.mod and go.sum(if you need deterministic builds).
   Now you Gucci. GoLang setup is not good. Need to make it better.
   
-  
+  ========================
+            
+ 
   
   
