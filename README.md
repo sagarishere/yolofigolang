@@ -17,9 +17,35 @@ Each student ID now contains a list of questions answered, a list of questions u
 In MongoDB this all can be part of a single Json document inside a collection (collection is table equivalent of MySQL in MongoDB, however unlike tables, one can do all kind of data in a single collection as well as within a single document. A document in MongoDB corresponds to a row in table in mysql)
 
 
+
 --------------------
 
 Commercial Product: Yolofi Teams: 
+
+Yolofi Teams Product Pitch:= 
+  Q: How strong is the bonding in your team? 
+  Q: Is there a matrix for measuring bonding?
+
+With Yolofi:
+ => Measure team bonding.
+ => Improve team performance.
+ => Form unbreakable friendships.
+ => Made for people-first companies.
+ => Decrease attrition.
+ 
+ 
+ The storyline:
+ When a new employee joins a company, they find themselves with the unknowns.
+ 
+ They don't know the tastes of other people in their teams, the chilling factor and the vibe factors, the eyebrow raising topics... the sensitivity and culture of the company as a whole and their teammates as individuals.
+ 
+ It takes an average of 2 years for a new employee to become one with the company cutlture and make effortless team work.
+    What if we could reduce it to 2 weeks.
+    
+ With Yolofi Teams, you don't imagine the productivity boost, you live it.
+
+
+  
 
 Pilot:
 The test pilot of Yolofi Teams will happen in one of the sponsors of Kood Johvi prgram. Either Bolt of Transferwise or some other sponsor could try it out with a team who have recruited a new member. 
