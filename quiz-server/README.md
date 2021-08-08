@@ -1,7 +1,7 @@
 # Kood Quiz development server
 
 1. Start server by `go run .`
-2. Go to [localhost:8000](http://localhost:10000)
+2. Go to [localhost:10000](http://localhost:10000)
 
 How to use it:
 
