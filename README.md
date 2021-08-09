@@ -84,8 +84,41 @@ and if you don't wanna place all the projects in one folder at one place (like m
             Commit go.mod and go.sum(if you need deterministic builds).
   Now you Gucci. GoLang setup is not good. Need to make it better.
   
-  ========================
+  ======================== ======================================== ========================================== ============================ ============================
             
- 
+ Sample Questions:
+  
+  Marek Kiisa
+
+Formula one Racer and a FIA ​​Formula Committee member
+
+-----------
+
+Proud owner of red Tesla S
+
+------
+Fan of local Estonian Strawberries and has been encouraging students at Johvi Gymnasium to become entreprenuers atleast since 2015.
+https://www.laaritalu.ee/
+
+----------
+
+Is known for technology focused investments
+
+===========
+Mari- Liis Kitter
+
+Wants Estonia to be a fully organic country
+
+Active advocate of Estonian forests globally.
+
+Is known for environment focued investments.
+
+===========
+
+Martin Villing:
+
+Published a private school newspaper as a student and organized school parties.
+Designed websites for companies
+Skype Web Backend team leader which developed Skype self-service environment and payment systems.
   
   
