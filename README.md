@@ -90,35 +90,35 @@ and if you don't wanna place all the projects in one folder at one place (like m
   
   Marek Kiisa
 
-Formula one Racer and a FIA ​​Formula Committee member
+1) Formula one Racer and a FIA ​​Formula Committee member
 
 -----------
 
-Proud owner of red Tesla S
+6) Proud owner of red Tesla S
 
 ------
-Fan of local Estonian Strawberries and has been encouraging students at Johvi Gymnasium to become entreprenuers atleast since 2015.
+10) Fan of local Estonian Strawberries and has been encouraging students at Johvi Gymnasium to become entreprenuers atleast since 2015.
 https://www.laaritalu.ee/
 
 ----------
 
-Is known for technology focused investments
+9) Is known for technology focused investments
 
 ===========
 Mari- Liis Kitter
 
-Wants Estonia to be a fully organic country
+4) Wants Estonia to be a fully organic country
 
-Active advocate of Estonian forests globally.
+2) Active advocate of Estonian forests globally.
 
-Is known for environment focued investments.
+5) Is known for environment focued investments.
 
 ===========
 
 Martin Villing:
 
-Published a private school newspaper as a student and organized school parties.
-Designed websites for companies
-Skype Web Backend team leader which developed Skype self-service environment and payment systems.
+7) Published a private school newspaper as a student and organized school parties.
+3) Designed websites for companies
+8) Skype Web Backend team leader which developed Skype self-service environment and payment systems.
   
   
