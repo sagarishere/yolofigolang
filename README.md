@@ -105,7 +105,7 @@ https://www.laaritalu.ee/
 9. Is known for technology focused investments
 
 ===========
-Mari- Liis Kitter
+Mari Liis Kitter
 
 4. Wants Estonia to be a fully organic country
 
