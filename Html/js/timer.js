@@ -2,7 +2,7 @@ var timeleft = 10;
 var downloadTimer = setInterval(function(){
   if(timeleft <= 0){
     clearInterval(downloadTimer);
-    document.getElementById("countdown").innerHTML = "Click";
+    document.getElementById("countdown").innerHTML = "<span style='color: white; font-size:20px;'>Click</span>";
   } else {
     document.getElementById("countdown").innerHTML = timeleft;
   }

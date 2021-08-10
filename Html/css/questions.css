@@ -1,16 +1,23 @@
 :root{
+    --kood-yellow: #F2EECB;
     --background-color : #f1b637;
     --primary-grey : #C4C4C4;
-    --primary-blue : #a4cff8;
+    --primary-blue : #a4cff8d5;
     --primary-green: #0daa41;
     --primary-red: #db4531ed;
 }
 
-.slideshow{
+body{
+    padding-top: 50px;
+    background-color: var(--kood-yellow);
+    background-image: url(../img/Logo-1.svg) norepeat;
+}
+
+/* .slideshow{
     width:max-content;
     height: max-content;
-    z-index: -100;
-}
+    overflow: hidden;
+} */
 
 .question-card{
     padding-top: 16px;
@@ -22,18 +29,19 @@
     background: var(--background-color);
     border-radius: 13px;
     width: 50%;
-    text-align: center;
-    position: relative;
 }
-.question-card h1{
+.question-div{
+    text-align: center;
+}
+.question-div h1{
     padding: 10px;
 }
-.question-card p{
+.question-div p{
     color: white;
     padding: 10px;
 }
 
-.question-card p b{
+.question-div p b{
     font-weight: 20px;
 }
 
@@ -49,8 +57,8 @@
 
 .btn .inner-circle{
     display: flex;
-    height: 50px;
-    width: 50px;
+    height: 60px;
+    width: 60px;
     border-radius: 50%;
     animation: change-color 4s ease infinite;
 }
@@ -61,12 +69,12 @@
 
 @keyframes change-color {
     0% {
-        background: #69b7eb;
+        background: var(--primary-blue);
       }
       50% {
-        background: #b3dbd3;
+        background: var(--primary-green);
       }
       100% {
-        background: #f4d6db;
+        background: var(--primary-red);
       }
   }
