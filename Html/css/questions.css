@@ -1,0 +1,80 @@
+:root{
+    --kood-yellow: #F2EECB;
+    --background-color : #f1b637;
+    --primary-grey : #C4C4C4;
+    --primary-blue : #a4cff8d5;
+    --primary-green: #0daa41;
+    --primary-red: #db4531ed;
+}
+
+body{
+    padding-top: 50px;
+    background-color: var(--kood-yellow);
+    background-image: url(../img/Logo-1.svg) norepeat;
+}
+
+/* .slideshow{
+    width:max-content;
+    height: max-content;
+    overflow: hidden;
+} */
+
+.question-card{
+    padding-top: 16px;
+    padding-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: flex;
+    background: var(--background-color);
+    border-radius: 13px;
+    width: 50%;
+}
+.question-div{
+    text-align: center;
+}
+.question-div h1{
+    padding: 10px;
+}
+.question-div p{
+    color: white;
+    padding: 10px;
+}
+
+.question-div p b{
+    font-weight: 20px;
+}
+
+.btn{
+    position: relative;
+    top: 280px;
+    display:flex;
+    height: 84px;
+    width: 84px;
+    border-radius: 50%;
+    background: var(--primary-grey);
+}
+
+.btn .inner-circle{
+    display: flex;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    animation: change-color 4s ease infinite;
+}
+
+.countdown{
+    color: white;
+}
+
+@keyframes change-color {
+    0% {
+        background: var(--primary-blue);
+      }
+      50% {
+        background: var(--primary-green);
+      }
+      100% {
+        background: var(--primary-red);
+      }
+  }
